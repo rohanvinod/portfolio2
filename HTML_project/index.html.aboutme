@@ -1,0 +1,32 @@
+<!Doctype html>
+
+<html>
+    <head>
+        <title></title>
+         <link rel="stylesheet" href="bootstrap-4.1.2-dist/css/bootstrap.css" type="text/css" />
+    </head>
+    <body>
+                <div class="jumbotron">
+    
+           
+            <ul class="nav nav-pills nav-fill">
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About me</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Resume</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact Me</a>
+                </li>
+            </ul>
+             <h1>Rohan's Engineering Portfolio</h1>
+            <h3>My name is Rohan Vinod and I am 15 years old.</h3>
+            <a class="nav-link" href="#">Continue Reading...</a>
+        </div>
