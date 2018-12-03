@@ -4888,10 +4888,17 @@ input[type="button"].btn-block {
   border-radius: 0.3rem;
 }
 
+.jumbotron1 {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  border-radius: 0.3rem;
+}
+
+
 @media (min-width: 576px) {
   .jumbotron {
     padding: 4rem 2rem;
-  }
+}
 }
 
 .jumbotron-fluid {
